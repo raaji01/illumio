@@ -12,4 +12,4 @@ Ensure you have the required files (lookup.csv and flows.txt) in the specified d
 Run the script by executing "python parse_logs.py" from the illumio/src directory.
 
 
-Thank you for the wonderful assignment looking forward for your feedback!
+Thank you for the wonderful assignment looking forward to your feedback!
